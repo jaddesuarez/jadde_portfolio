@@ -1,0 +1,56 @@
+{
+  "AppTitle": "Jadde's Portfolio",
+
+  "common": {
+    "action": {
+      "sendMessage": "Send Message",
+      "contact": "Contact Me",
+      "downloadCV": "Download CV"
+    }
+  },
+
+  "navBar": {
+    "home": "home",
+    "portfolio": "portfolio",
+    "about": "about-me",
+    "contact": "contact"
+  },
+
+  "yupValidation": {
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please type a valid email",
+    "messageRequired": "Message is required"
+  },
+
+  "contactPage": {
+    "heading1": "Get in",
+    "heading2": "touch",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "content": "I'm interested in ..",
+    "jobOffer": "Job Offer",
+    "mobileAPP": "Mobile APP Development",
+    "desktopAPP": "Desktop APP Development",
+    "collab": "Collab on a project",
+    "sendMessage": "Send Message",
+    "successMessage": "Message Sent"
+  },
+
+  "homePage": {
+    "occupation": "I'm a Full Stack Developer",
+    "projectsTitle": "Projects",
+    "projectsSubtitle": "Featured Works",
+    "skillsTitle": "Skills",
+    "skillsSubtitle": "My Focused Technologies",
+    "contactSubtitle": "Let's Work Together",
+    "age": "Age",
+    "xp": "Years of Experience",
+    "personalInfo": "Personal Info",
+    "socialInfo": "Social",
+    "localTime": "Local Time"
+  },
+
+  "aboutPage": {}
+}
